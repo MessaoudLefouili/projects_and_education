@@ -1,5 +1,5 @@
 # projects_and_education
-this repository contains some documents related to my education
+this repository contains some documents related to my education <br/>
 *Mémoire ingeniaurat Projet de fin d'études :  represent my End of study project dissertation for my graduation from National higher school of biotechnology Algeria 
 *Rapport_de_Stage_2021 inrae_après deux mois de stage: represnt my internship report represented to finish my first year masters degree in statistics for life science, i am still currently doing this internship untill the end of august and the results are still changing 
 *Programme Ecole nationale superieur de biotechnologie: contains the official detailed description of the education program in the National higher school of biotechnology Algeria
